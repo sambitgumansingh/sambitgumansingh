@@ -1,3 +1,6 @@
+![image (1)](https://github.com/user-attachments/assets/39da1b9f-e304-4bd2-a639-6c3a9d7c55b8)
+
+
 <h1 align="center">Hi 👋, I'm Sambit Gumansingh</h1>
 <h3 align="center">software engineer | passionate about robotics | ai | data science | cybersecurity</h3>
 
